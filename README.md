@@ -157,7 +157,7 @@ The data used for this project are car listings scraped from <a href="https://ww
     <a href="mailto:nicole.lumagui@ftwfoundation.org">nicole.lumagui@ftwfoundation.org</a>
   </li>
   <li>
-    Bernadette Misa <br>
+    Bernadette Misa (<a href="http://github.com/bernablues">@bernablues</a>)<br>
     <a href="mailto:bernadette@ftwfoundation.org">bernadette@ftwfoundation.org</a>
   </li>
   <li>
