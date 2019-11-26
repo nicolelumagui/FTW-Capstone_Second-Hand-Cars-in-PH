@@ -8,7 +8,7 @@
 <br>
 
 ### See our model in action here: http://nicolelumagui.pythonanywhere.com/
-*(This site will be disabled on Monday 25 November 2019)*
+*(This site will be disabled on Wednesday 26 February 2020)*
 
 <br>
 
